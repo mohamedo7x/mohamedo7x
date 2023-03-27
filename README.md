@@ -18,20 +18,15 @@
   &emsp;
 
    <a href="https://docs.github.com/en"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  &emsp;
-
-  <a href="https://docs.github.com/en"><img alt="JS" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-
+ 
 
 </p>
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Connect with me
 <p align="center">
-<a href="mailto:ali.elshorpagi11@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/ali-elshorpagi/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/AliElshorpagi"><img src="https://img.shields.io/badge/twitter-%231877F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://www.facebook.com/alilio02"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.instagram.com/ali_elshorpagi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mohamedo7x@hotmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/mohamed-khalid-3641b2230/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/mohamed.khalidebrahime" alt="Facebook"/></a>
 </p>
  
 <br><br>
