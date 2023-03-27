@@ -27,6 +27,4 @@
 </p>
  
 <br><br>
-<img align="left" src="https://camo.githubusercontent.com/ebab6a431893818bfe707febb45add225d29268b8f8092a4fd50b70679878409/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416c692d456c73686f7270616769266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" alt="Ali-Elshorpagi" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimSalem0&amp;layout=compact&amp;hide=html&amp;theme=radical&amp;count_private=true" style="max-width: 100%;">
-
 
