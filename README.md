@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khalid</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">software engineering</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedo7x&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
 		   <img src="https://img.shields.io/github/followers/mohamedo7x?label=Followers" alt="mohamedo7" />
@@ -11,7 +11,6 @@
   
 - 🌱 I'm currently learning MERN Stack
 - 👯 I'm looking to work on real projects and searching for an internship
-- ⚡ I'm studying `DS` and `PS`
 
 <br>
 
